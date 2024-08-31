@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XayDungClassAnimal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f23e53dc3a922c92d3f7941bc4b5cd3cc1896e7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("XayDungClassAnimal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XayDungClassAnimal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
