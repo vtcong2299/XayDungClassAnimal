@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\bin\Debug\net8.0\XayDungClassAnimal.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\bin\Debug\net8.0\XayDungClassAnimal.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\bin\Debug\net8.0\XayDungClassAnimal.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\bin\Debug\net8.0\XayDungClassAnimal.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\bin\Debug\net8.0\XayDungClassAnimal.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\refint\XayDungClassAnimal.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\XayDungClassAnimal.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungClassAnimal\obj\Debug\net8.0\ref\XayDungClassAnimal.dll
